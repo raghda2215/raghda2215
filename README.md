@@ -14,9 +14,7 @@
 
 ## 🛠️ Technologies & Compétences
 
-| Backend | Frameworks | Base de données 
-|---|---|---|---|
-| PHP | Laravel | MySQL / PostgreSQL | Angular | React | Java |
+| Backend | Frameworks | Base de données | PHP | Laravel | MySQL | Angular | React | Java 
 
 ---
 
@@ -29,7 +27,4 @@
 
 ---
 
-
-
-> “Le code n’est pas seulement un métier ; c’est un moyen de transformer des idées en réalité.”
 
