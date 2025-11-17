@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Salut ! Je suis Raghda
 
-<!--
-**raghda2215/raghda2215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Toujours en train d’apprendre. Toujours en train de développer. Toujours en train de rêver plus grand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 À propos de moi
+
+- Étudiante en **Génie Logiciel et Informatique Décisionnelle** (GLID) à l’Institut International de Technologie  
+- Passionnée par le **développement backend**, particulièrement en **PHP** et **Laravel**  
+- J’aime créer des API robustes, des systèmes bien organisés et des projets évolutifs  
+
+---
+
+## 🛠️ Technologies & Compétences
+
+| Backend | Frameworks | Base de données 
+|---|---|---|---|
+| PHP | Laravel | MySQL / PostgreSQL | Angular | React | Java |
+
+---
+
+--
+
+## 📫 Me contacter
+
+- ✉️ Email : raghdasalhi96@gmail.com
+- 🔗 LinkedIn : https://www.linkedin.com/in/salhi-raghda-8079b3225/ 
+
+---
+
+
+
+> “Le code n’est pas seulement un métier ; c’est un moyen de transformer des idées en réalité.”
+
